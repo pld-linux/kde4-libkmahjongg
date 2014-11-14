@@ -4,12 +4,12 @@
 
 Summary:	libkmahjongg
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	LGPL
 Group:		X11/Libraries
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	76a823bb9e5c353d8b1f6a8a5c0295b2
+# Source0-md5:	390c6757cc678522143c950841aaf409
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
